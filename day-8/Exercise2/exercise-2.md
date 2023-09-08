@@ -55,8 +55,9 @@
  }
 
 ```
-* Find people who are MERN stack developer from the users object
-* Set your name in the users object without modifying the original users object
-* Get all keys or properties of users object
-* Get all the values of users object
-* Use the countries object to print a country name, capital, populations and languages.
+
+- Find people who are MERN stack developer from the users object
+- Set your name in the users object without modifying the original users object
+- Get all keys or properties of users object
+- Get all the values of users object
+- Use the countries object to print a country name, capital, populations and languages.
